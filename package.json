@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "start": "widget-builder start \"Reproducible Example\"",
+    "publish": "widget-builder publish \"Reproducible Example\""
+  }
+}
